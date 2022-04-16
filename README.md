@@ -19,7 +19,7 @@ while hard I was able to overcome it by:
 
 ### Entering desired Password length
 
-![alt text](./assets/images/Enter-desired-pass-screen.png"Password Desired Length")
+![alt text](./assets/images/Enter-desired-pass-screen.png "Password Desired Length")
 
 ### Getting a desired generated password based off your criteria! 
 ![alt text](./assets/images/Password-generated.png "A generated passoword")
